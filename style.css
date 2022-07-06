@@ -6,6 +6,7 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 50px;
 }
 
 .font-style{
@@ -41,4 +42,18 @@ section{
    background-size: 100% 100%;
    padding-bottom: 150px;
   
+}
+.donate-style{
+    font-size: 50px;
+    font-weight: 100%;
+    margin-left: 10%;
+    
+    text-align: center;
+    color: black;
+}
+.parragraph-donate{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 10%;
+   color: rgb(13, 12, 11);
 }
