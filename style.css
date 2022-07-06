@@ -1,0 +1,44 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+   
+    
+}
+section{
+    display: flex;
+}
+
+.font-style{
+    font-size: 50px;
+    font-weight: 100%;
+    padding-inline: 200px;
+    padding-top: 100px;
+    text-align: center;
+    color: white;
+}
+.parragraph-style{
+    font-size: 20px;
+    text-align: center;
+    padding-inline: 200px;
+   color: blanchedalmond;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    font-weight: 700;
+   padding: 20px 30px;
+    border-radius: 10px;
+    margin-left: 45%;
+    
+    margin-top: 1%;
+    display: inline-block;
+    
+}
+.background-img{
+    background-image: url(images/donation4.jpg);
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   padding-bottom: 150px;
+  
+}
