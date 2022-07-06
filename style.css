@@ -119,3 +119,36 @@ section{
     margin-right: 2%;
     background-color: aliceblue;
   }
+  .w3-font{
+    position: absolute;
+    font-size: 20px;
+    color: black;
+
+    margin-left: 40%;
+
+    color: gray;
+  }
+  .w3-input{
+    width: 100px;
+    height: 70px;
+    border: none;
+    border-bottom: 2px solid silver;
+   padding-left: 250%;
+   margin-left: 300%;
+   font-size: 20px;
+    color: black;
+    
+  }
+  .link-button-1{
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    font-weight: 700;
+   padding: 10px 30px;
+    border-radius: 10px;
+    margin-left: 400%;
+    
+    margin-top: 20%;
+    display: inline-block;
+
+  }
