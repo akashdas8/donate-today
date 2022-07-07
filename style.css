@@ -182,3 +182,20 @@ body{
   #education-child{
     background-color: antiquewhite;
   }
+  .donation-you{
+    width: 50%;
+    font-size: 25px;
+    padding-left: 5%;
+    margin-top: 5%;
+  }
+  .donation-you img{
+    width: 70%;
+  }
+  .how-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+  }
