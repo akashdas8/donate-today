@@ -200,3 +200,10 @@ body{
     font-weight: 700;
     color: white;
   }
+  .my-up{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
