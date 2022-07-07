@@ -187,9 +187,10 @@ body{
     font-size: 25px;
     padding-left: 5%;
     margin-top: 5%;
+    padding-right: 5%;
   }
   .donation-you img{
-    width: 70%;
+    width: 80%;
   }
   .how-button{
     text-decoration: none;
